@@ -1,0 +1,2 @@
+# InfMine
+Infinite Minewseeper
